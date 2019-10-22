@@ -1,0 +1,11 @@
+D:\Projetos\ProjDiaSemana\App\bin\Debug\netcoreapp3.0\App.exe
+D:\Projetos\ProjDiaSemana\App\bin\Debug\netcoreapp3.0\App.deps.json
+D:\Projetos\ProjDiaSemana\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.json
+D:\Projetos\ProjDiaSemana\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.dev.json
+D:\Projetos\ProjDiaSemana\App\bin\Debug\netcoreapp3.0\App.dll
+D:\Projetos\ProjDiaSemana\App\bin\Debug\netcoreapp3.0\App.pdb
+D:\Projetos\ProjDiaSemana\App\obj\Debug\netcoreapp3.0\App.csprojAssemblyReference.cache
+D:\Projetos\ProjDiaSemana\App\obj\Debug\netcoreapp3.0\App.AssemblyInfoInputs.cache
+D:\Projetos\ProjDiaSemana\App\obj\Debug\netcoreapp3.0\App.AssemblyInfo.cs
+D:\Projetos\ProjDiaSemana\App\obj\Debug\netcoreapp3.0\App.dll
+D:\Projetos\ProjDiaSemana\App\obj\Debug\netcoreapp3.0\App.pdb
